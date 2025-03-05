@@ -1,3 +1,0 @@
-D:/111XDU/C++/new_proj/build/CMakeFiles/main.dir
-D:/111XDU/C++/new_proj/build/CMakeFiles/edit_cache.dir
-D:/111XDU/C++/new_proj/build/CMakeFiles/rebuild_cache.dir
