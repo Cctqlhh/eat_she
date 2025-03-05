@@ -72,57 +72,57 @@ CMakeFiles/main.dir/src/Food.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/Food.cpp.obj: D:/111XDU/C++/new_proj/src/Food.cpp
 CMakeFiles/main.dir/src/Food.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\111XDU\C++\new_proj\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/Food.cpp.obj"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Food.cpp.obj -MF CMakeFiles\main.dir\src\Food.cpp.obj.d -o CMakeFiles\main.dir\src\Food.cpp.obj -c D:\111XDU\C++\new_proj\src\Food.cpp
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Food.cpp.obj -MF CMakeFiles\main.dir\src\Food.cpp.obj.d -o CMakeFiles\main.dir\src\Food.cpp.obj -c D:\111XDU\C++\new_proj\src\Food.cpp
 
 CMakeFiles/main.dir/src/Food.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/Food.cpp.i"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\Food.cpp > CMakeFiles\main.dir\src\Food.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\Food.cpp > CMakeFiles\main.dir\src\Food.cpp.i
 
 CMakeFiles/main.dir/src/Food.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/Food.cpp.s"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\Food.cpp -o CMakeFiles\main.dir\src\Food.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\Food.cpp -o CMakeFiles\main.dir\src\Food.cpp.s
 
 CMakeFiles/main.dir/src/Game.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/Game.cpp.obj: D:/111XDU/C++/new_proj/src/Game.cpp
 CMakeFiles/main.dir/src/Game.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\111XDU\C++\new_proj\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/Game.cpp.obj"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Game.cpp.obj -MF CMakeFiles\main.dir\src\Game.cpp.obj.d -o CMakeFiles\main.dir\src\Game.cpp.obj -c D:\111XDU\C++\new_proj\src\Game.cpp
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Game.cpp.obj -MF CMakeFiles\main.dir\src\Game.cpp.obj.d -o CMakeFiles\main.dir\src\Game.cpp.obj -c D:\111XDU\C++\new_proj\src\Game.cpp
 
 CMakeFiles/main.dir/src/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/Game.cpp.i"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\Game.cpp > CMakeFiles\main.dir\src\Game.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\Game.cpp > CMakeFiles\main.dir\src\Game.cpp.i
 
 CMakeFiles/main.dir/src/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/Game.cpp.s"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\Game.cpp -o CMakeFiles\main.dir\src\Game.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\Game.cpp -o CMakeFiles\main.dir\src\Game.cpp.s
 
 CMakeFiles/main.dir/src/Snake.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/Snake.cpp.obj: D:/111XDU/C++/new_proj/src/Snake.cpp
 CMakeFiles/main.dir/src/Snake.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\111XDU\C++\new_proj\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/src/Snake.cpp.obj"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Snake.cpp.obj -MF CMakeFiles\main.dir\src\Snake.cpp.obj.d -o CMakeFiles\main.dir\src\Snake.cpp.obj -c D:\111XDU\C++\new_proj\src\Snake.cpp
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Snake.cpp.obj -MF CMakeFiles\main.dir\src\Snake.cpp.obj.d -o CMakeFiles\main.dir\src\Snake.cpp.obj -c D:\111XDU\C++\new_proj\src\Snake.cpp
 
 CMakeFiles/main.dir/src/Snake.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/Snake.cpp.i"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\Snake.cpp > CMakeFiles\main.dir\src\Snake.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\Snake.cpp > CMakeFiles\main.dir\src\Snake.cpp.i
 
 CMakeFiles/main.dir/src/Snake.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/Snake.cpp.s"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\Snake.cpp -o CMakeFiles\main.dir\src\Snake.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\Snake.cpp -o CMakeFiles\main.dir\src\Snake.cpp.s
 
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/main.cpp.obj: D:/111XDU/C++/new_proj/src/main.cpp
 CMakeFiles/main.dir/src/main.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\111XDU\C++\new_proj\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/src/main.cpp.obj"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.obj -MF CMakeFiles\main.dir\src\main.cpp.obj.d -o CMakeFiles\main.dir\src\main.cpp.obj -c D:\111XDU\C++\new_proj\src\main.cpp
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.obj -MF CMakeFiles\main.dir\src\main.cpp.obj.d -o CMakeFiles\main.dir\src\main.cpp.obj -c D:\111XDU\C++\new_proj\src\main.cpp
 
 CMakeFiles/main.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/src/main.cpp.i"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\main.cpp > CMakeFiles\main.dir\src\main.cpp.i
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\111XDU\C++\new_proj\src\main.cpp > CMakeFiles\main.dir\src\main.cpp.i
 
 CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
-	D:\MinGW\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\main.cpp -o CMakeFiles\main.dir\src\main.cpp.s
+	D:\MinGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\111XDU\C++\new_proj\src\main.cpp -o CMakeFiles\main.dir\src\main.cpp.s
 
 # Object files for target main
 main_OBJECTS = \

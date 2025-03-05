@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/111XDU/C++/new_proj/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe    -g -g -o CMakeFiles\\main.dir\\src\\Food.cpp.obj -c D:\\111XDU\\C++\\new_proj\\src\\Food.cpp",
+  "file": "D:/111XDU/C++/new_proj/src/Food.cpp",
+  "output": "CMakeFiles/main.dir/src/Food.cpp.obj"
+},
+{
+  "directory": "D:/111XDU/C++/new_proj/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe    -g -g -o CMakeFiles\\main.dir\\src\\Game.cpp.obj -c D:\\111XDU\\C++\\new_proj\\src\\Game.cpp",
+  "file": "D:/111XDU/C++/new_proj/src/Game.cpp",
+  "output": "CMakeFiles/main.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "D:/111XDU/C++/new_proj/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe    -g -g -o CMakeFiles\\main.dir\\src\\Snake.cpp.obj -c D:\\111XDU\\C++\\new_proj\\src\\Snake.cpp",
+  "file": "D:/111XDU/C++/new_proj/src/Snake.cpp",
+  "output": "CMakeFiles/main.dir/src/Snake.cpp.obj"
+},
+{
+  "directory": "D:/111XDU/C++/new_proj/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe    -g -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c D:\\111XDU\\C++\\new_proj\\src\\main.cpp",
+  "file": "D:/111XDU/C++/new_proj/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+}
+]
