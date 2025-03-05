@@ -1,5 +1,5 @@
 # CMake 最低版本号要求
-cmake_minimum_required (VERSION 2.8)
+cmake_minimum_required (VERSION 3.5)
 #项目名称, 参数值是 main, 该命令表示项目的名称是 main
 project(main)
 # 添加源文件目录
