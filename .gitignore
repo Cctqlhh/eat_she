@@ -1,1 +1,28 @@
+# 编译产物
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# 构建目录
+/build/*
+!build/.gitkeep
+/bin/
+/obj/
+
+# CMake
+/CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# IDE
+.vs/
 .vscode/
+*.sln
+*.suo
+*.user
+
+# 系统文件
+Thumbs.db
+.DS_Store
